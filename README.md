@@ -47,13 +47,13 @@ An Unofficial JioSaavn API for downloading songs in 320kbps quality for free.
   npm start
   ```
   
-- FOR vercel Install the dependencies
-
+- For vercel PRoject > project > settings > general build and devlopment
+-install commannd
   ```sh
   yarn install
   ```
 
-- Start development server
+- Devleopment command
 
   ```sh
   yarn run
